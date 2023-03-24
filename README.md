@@ -1,5 +1,5 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hey, nice to see you!
-## Junior Full Stack Developer 
+![](https://github.com/pstanke/pstanke/blob/main/messagif-4.gif)
+
 Currently, I am participating in the Kodilla bootcamp and I am looking for my first commercial experience. I invite you to take a look at my projects.  
 * 🌍  I'm based in Chorzów, Poland
 * ✉️  You can contact me at [pablostanke21@gmail.com](mailto:pablostanke21@gmail.com)
